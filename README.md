@@ -1,4 +1,4 @@
-# Dcat Admin Form WangEditor扩展
+# Dcat Admin Form WangEditor扩展 拖拽上传,复制上传
 
 ## 部分代码参考[dcat-markdown](https://gitee.com/-/ide/project/dcat-phper/dcat-markdown)
 
