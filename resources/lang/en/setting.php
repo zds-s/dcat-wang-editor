@@ -7,6 +7,6 @@
  * @link      https://www.cnblogs.com/death-satan
  */
 return [
-    'title'=>'友情提示',
-    'content'=>'本插件无需配置项'
+    'title'=>'Friendly tips',
+    'content'=>'No configuration items are required for this plug-in'
 ];
