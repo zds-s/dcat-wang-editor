@@ -388,10 +388,12 @@ class WangEditor extends \Dcat\Admin\Form\Field
     /**
      * 设置语言
      * @param string $lang
+     * @return $this
      */
-    public function lang(string $lang='en')
+    public function lang(string $lang='en'):WangEditor
     {
         $this->options['lang'] = $lang;
+        return $this;
     }
 
     public function render()
