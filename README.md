@@ -3,6 +3,14 @@
 ## 部分代码参考[dcat-markdown](https://gitee.com/-/ide/project/dcat-phper/dcat-markdown)
 
 ## [WangEditor文档](https://www.wangeditor.com/doc/)
+## 示例
+
+---
+
+![](example/img.png)
+
+---
+
 # 安装和使用
 ## composer 安装
 
