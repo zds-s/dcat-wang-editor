@@ -53,7 +53,7 @@ $form->wangEditor('column')
     <td>height</td>
     <td>int $height</td>
     <td>设置编辑器容器高度</td>
-    <td>自己去官网文档翻</td>
+    <td>参考WangEditor文档</td>
   </tr>
   <tr>
     <td>emotions</td>
@@ -79,7 +79,7 @@ $form->wangEditor('column')
     <td>zIndex</td>
     <td>int $zIndex</td>
     <td>配置 z-index</td>
-    <td>自己去官网文档翻</td>
+    <td>参考WangEditor文档</td>
   </tr>
   <tr>
     <td>focus</td>
@@ -92,19 +92,19 @@ $form->wangEditor('column')
     <td>showFullScreen</td>
     <td>bool $show=false</td>
     <td>设置全屏功能</td>
-    <td>自己去官网文档翻</td>
+    <td>参考WangEditor文档</td>
   </tr>
   <tr>
     <td>showMenuTooltips</td>
     <td>bool $show=false</td>
     <td>设置菜单栏提示</td>
-    <td>自己去官网文档翻</td>
+    <td>参考WangEditor文档</td>
   </tr>
   <tr>
     <td>menuTooltipPosition</td>
     <td>string $position = 'down'</td>
     <td>设置菜单栏提示为[下标:up,下标:down]</td>
-    <td>懒得解释,去官网文档找</td>
+    <td>参考WangEditor开发文档</td>
   </tr>
   <tr>
     <td>pasteFilterStyle</td>
@@ -128,13 +128,13 @@ $form->wangEditor('column')
     <td>ImgDirectory</td>
     <td>string $path</td>
     <td>设置图片上传路径</td>
-    <td>字面意思</td>
+    <td>...</td>
   </tr>
   <tr>
     <td>VideoDirectory</td>
     <td>string $path</td>
     <td>设置视频上传路径</td>
-    <td>字面意思</td>
+    <td>...</td>
   </tr>
   <tr>
     <td>setCss</td>
