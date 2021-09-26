@@ -61,6 +61,10 @@
         }
     }
 
+    editor.config.uploadVideoHooks.customInsert = function(insertVideoFn, result) {
+        return insertVideoFn(result.data[0])
+    }
+
     //同步html
     editor.config.onchange = function (newHtml) {
         $(id).val(newHtml)
